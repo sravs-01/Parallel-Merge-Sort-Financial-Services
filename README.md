@@ -71,4 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 - **S. Siva Pravallika** (CB.EN.U4CSE22440)
-- [**Sravani Orugranti** (CB.EN.U4CSE22457)](https://github.com/sravs-01)
+- **Sravani Orugranti** (CB.EN.U4CSE22457)[GitHub Link](https://github.com/sravs-01)
